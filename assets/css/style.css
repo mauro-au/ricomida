@@ -1,0 +1,89 @@
+* {
+    font-family: "Cabin", sans-serif;
+    color: #373A3C;
+}
+
+.titulo {
+    font-size: 40pt;
+}
+
+h2 {
+    margin: 0;
+}
+
+h2 a {
+    font-family: "Lobster", sans-serif;
+    font-size: 49px !important;
+}
+
+.separador_titulo {
+    border: solid #000 1px;
+    margin-top: 30px;
+    opacity: 1;
+}
+
+.navbar {
+    background: #373A3C;
+}
+
+header {
+    margin-top: 110px;
+}
+
+.lista {
+    font-size: 26px;
+}
+
+.lista ul li {
+    list-style: none;
+}
+
+.card-title {
+    font-size: 23pt;
+}
+
+.card-text {
+    font-size: 16pt;
+}
+
+.newsletter {
+    color: #fff;
+    background: #DC3545;
+    padding: 200px 0 262px 0;
+}
+
+.newsletter button {
+    color: #fff;
+    border: solid 1px #DDDDDD;
+    padding: 10pt 90pt;
+    font-size: 16pt;
+}
+
+.newsletter h2 {
+    font-size: 40pt;
+}
+
+.newsletter h3 {
+    font-size: 30pt;
+}
+
+.logo_ricomida {
+    font-family: "Lobster", sans-serif;
+    color: #fff;
+    font-size: 49px !important;
+}
+
+.ricomida {
+    font-family: "Lobster", sans-serif;
+    color: #fff;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+}
+
+.preparacion, .ingredientes {
+    color: #DC3545;
+}
